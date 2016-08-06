@@ -11,7 +11,7 @@
     "dark",
     "theme"
   ],
-  "repository": "https://github.com/sujaykundu777/hackify",
+  "repository": "https://github.com/sujaykundu777/hackify-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
