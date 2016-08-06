@@ -1,0 +1,19 @@
+{
+  "name": "hackify-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Hacking Inspired Dark-Green Theme",
+  "keywords": [
+    "syntax",
+    "hackify",
+    "hacking",
+    "hacker",
+    "dark",
+    "theme"
+  ],
+  "repository": "https://github.com/sujaykundu777/hackify",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
